@@ -123,3 +123,5 @@ nnoremap <F6> :w<CR>:make! %< CC=gcc CFLAGS="-g -Wall"<CR>:!./%<<CR>
 " Quickfix window
 nnoremap <silent> <F7> :botright copen<CR>
 nnoremap <silent> <F8> :cclose<CR>
+
+
